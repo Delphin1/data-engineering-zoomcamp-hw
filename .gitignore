@@ -14,8 +14,10 @@
 serving_dir
 .ipynb_checkpoints/
 
+
 *.json
 *.csv
 01-docker-terraform/1_terraform_gcp/keys/
 01-docker-terraform/2_docker_sql/ny_taxi_postgres_data/
 01-docker-terraform/2_docker_sql/pgadmin
+02-workflow-orchestration/data

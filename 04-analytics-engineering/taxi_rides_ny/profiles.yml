@@ -1,0 +1,11 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: dataengineeringzoomcamp2025
+      dataset: trips_data_all
+      threads: 4 # Must be a value of 1 or greater
+      keyfile: ../my-gcp.json
+#      OPTIONAL_CONFIG: VALUE

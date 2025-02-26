@@ -1,4 +1,7 @@
 google-cloud-storage
 #dlt[clickhouse]
 dlt[duckdb]
+pandas
+dbt-core
+dbt-bigquery
 #urllib3

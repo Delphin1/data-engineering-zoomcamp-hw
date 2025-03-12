@@ -4,4 +4,5 @@ dlt[duckdb]
 pandas
 dbt-core
 dbt-bigquery
+kafka-python
 #urllib3
